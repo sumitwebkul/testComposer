@@ -8,7 +8,8 @@
 
 <p align="center">
 	<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Download"></a>
-	<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
+	<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/sumitwebkul/test-composer/v" alt="Latest Stable Version"></a>
+	[![Latest Stable Version](https://poser.pugx.org/sumitwebkul/test-composer/v)](//packagist.org/packages/sumitwebkul/test-composer)
 	<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
 	<a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Forum"></a>
 	<a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Support"></a>
