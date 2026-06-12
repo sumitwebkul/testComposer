@@ -1,1 +1,61 @@
-
+{
+    "name": "qloapps/qloapps",
+    "description": "QloApps is an Open-source and Free hotel reservation system and booking engine. With the help of QloApps, you can launch your hotel booking website without any cost and take & manage online bookings.",
+    "type": "project",
+    "homepage": "https://qloapps.com",
+    "license": "OSL-3.0",
+    "keywords": [
+        "hotel",
+        "hotel-management",
+        "booking",
+        "booking-engine",
+        "reservation",
+        "hospitality",
+        "property-management",
+        "qloapps",
+        "cms"
+    ],
+    "authors": [
+        {
+            "name": "QloApps",
+            "email": "support@qloapps.com",
+            "homepage": "https://qloapps.com"
+        },
+        {
+            "name": "QloApps Community",
+            "homepage": "https://github.com/Qloapps/QloApps/graphs/contributors"
+        }
+    ],
+    "support": {
+        "docs": "https://qloapps.com/docs/",
+        "email": "support@qloapps.com",
+        "forum": "https://forums.qloapps.com/",
+        "issues": "https://github.com/Qloapps/QloApps/issues",
+        "source": "https://github.com/Qloapps/QloApps"
+    },
+    "require": {
+        "php": ">8.0 <8.5",
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "ext-gd": "*",
+        "ext-intl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-pdo": "*",
+        "ext-phar": "*",
+        "ext-simplexml": "*",
+        "ext-soap": "*",
+        "ext-zip": "*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": ["classes/", "Core/", "Adapter/"]
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}
